@@ -1,0 +1,7 @@
+*.exe
+*.exe
+*.obj
+compile_local.bat
+compile.bat
+link_local.bat
+link.bat
